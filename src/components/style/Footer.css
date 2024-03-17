@@ -1,0 +1,33 @@
+.footer {
+  background-color: #f0f0f0;
+  padding: 2rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.footer-content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+
+.contact-info {
+  display: flex;
+  flex-direction: column;
+  margin-right: 2rem;
+}
+
+.contact-info p {
+  margin-bottom: 0.5rem;
+}
+
+.copyright {
+  text-align: right;
+}
+
+.footer-text {
+  font-size: 0.8rem;
+}

@@ -1,0 +1,28 @@
+.hero {
+  background-image: url(/src/components/style/heroImage.png);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+@media (max-width: 768px) {
+  .hero {
+    background-size: contain;
+  }
+}
+
+.hero button {
+  margin-top: 420px;
+}
+
+@media (max-width: 768px) {
+  .hero button {
+    margin-top: 200px; /* Adjust this value according to your design preference for smaller screens */
+  }
+}
