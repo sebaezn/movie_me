@@ -11,10 +11,13 @@ const Footer = () => {
           <p>Email: MovieMe@me.com</p>
           <p>Phone: +61 0482334976</p>
           <p>Address: 567 noreal street </p>
+          <p>iNFROMATION</p>
+          
+
         </div>
         <div className="copyright">
           <p className="footer-text">
-            Sebastian Baez Navarro/IFN666/Assessment2.
+            Sebastian Baez.
           </p>
         </div>
       </div>
