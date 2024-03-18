@@ -43,7 +43,6 @@ const NavigationBar = () => {
             <Link className="navbar-item" to="/tv">TV Shows</Link>
             <Link className="navbar-item" to="/topairing">Top Airing</Link>
             <Link className="navbar-item" to="/news">News</Link>
-            <Link className="navbar-item" to="/contactus">Contact Us</Link>
           </div>
 
           <div className="navbar-end">
