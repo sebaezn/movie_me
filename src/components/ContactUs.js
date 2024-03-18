@@ -16,7 +16,7 @@ const ContactUs = () => {
         <div className="field">
           <label className="label">Email</label>
           <div className="control">
-            <input className="input" type="email" placeholder="Your Email" />
+            <input className="input" type="email" planceholder="Your Email" />
           </div>
         </div>
 
